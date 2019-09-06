@@ -1,0 +1,5 @@
+# Ignore nltk data folder
+nltk_data/
+
+# Ignore dataset
+MetObjects.csv
