@@ -3,3 +3,9 @@ nltk_data/
 
 # Ignore dataset
 MetObjects.csv
+
+# Ignore CatBoost info
+catboost_info/*
+
+# Ignore checkpoints
+.ipynb_checkpoints/*
