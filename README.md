@@ -1,8 +1,6 @@
 # MetMuseum
 Metropolitan Museum of Art Data Science Project.
 
-test
-
 Uses the collection dataset from the Metropolitan Museum of Art.
 Dataset link: https://github.com/metmuseum/openaccess
 
